@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valouloulouuu
 - 👀 I’m interested in H❤️
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning Web and C#
 - 😄 Pronouns: Valou2nez or Valouloulouuuu
 
 <!---
