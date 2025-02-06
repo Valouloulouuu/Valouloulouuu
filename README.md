@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valouloulouuu
-- 👀 I’m interested in H❤️
-- 🌱 I’m currently learning Web and C#
+- 👀 I’m interested by Vidéo Games
+- 🌱 I’m currently learning HTML, CSS, JS, Python and Lua
 - 😄 Pronouns: Valou2nez or Valouloulouuuu
 
 <!---
